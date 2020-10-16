@@ -13,12 +13,10 @@ Projeto para gerenciar pratos de comida, desde o cadastro até a disponibilizaç
 
 - Faça o clone do projeto;
 - Acesse a pasta do projeto pelo terminal e digite ```yarn``` para instalar as dependências;
-- Depois de finalizado digite ```yarn json-server server.json -p 3333```, para disponibilizar um backend de teste;
-- Abra uma aba no terminal e digite ```yarn start```, o projeto será inicializado na url ```http://localhost:3000```;
+- Depois de finalizado digite ```yarn start```, será disponibilizado um backend de teste e o projeto será inicializado na url ```http://localhost:3000```;
 
 ```sh
 yarn
-yarn json-server server.json -p 3333
 yarn start
 ```
 
