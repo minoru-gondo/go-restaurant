@@ -1,0 +1,28 @@
+{
+  "foods": [
+    {
+      "image": "https://img.cybercook.com.br/receitas/985/macarrao-ao-pesto-2-623x350.jpeg",
+      "name": "Macarrão ao molho pesto",
+      "price": "42,00",
+      "description": "Macarrão ao molho pesto, cheiro verde e queijo.",
+      "id": 1,
+      "available": true
+    },
+    {
+      "image": "https://abrilmdemulher.files.wordpress.com/2016/09/receita-penne-com-couve-flor.jpg?quality=90&strip=info&w=620&h=372&crop=1",
+      "name": "Macarrão vegano da casa",
+      "price": "21,90",
+      "available": true,
+      "description": "Macarrão com couve-flor, brócolis e ervas finas.",
+      "id": 2
+    },
+    {
+      "image": "https://m.bonde.com.br/img/bondenews/2019/05/img_162.jpg",
+      "name": "Macarrão com camarão",
+      "price": "30,00",
+      "description": "Macarrão com camarão, molho branco e ervas finas.",
+      "id": 3,
+      "available": true
+    }
+  ]
+}
