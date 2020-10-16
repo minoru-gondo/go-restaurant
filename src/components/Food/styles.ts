@@ -17,6 +17,7 @@ export const Container = styled.div<IFoodPlateProps>`
     transition: 0.3s opacity;
     text-align: center;
     overflow: hidden;
+    background: #fff;
 
     ${props =>
       !props.available &&
@@ -29,6 +30,7 @@ export const Container = styled.div<IFoodPlateProps>`
       user-select: none;
       width: 100%;
       height: 190px;
+      min-height: 190px;
       object-fit: cover;
       object-position: center;
     }

@@ -70,7 +70,7 @@ const ModalAddFood: React.FC<IModalProps> = ({
         });
       }
     },
-    [handleAddFood, setIsOpen],
+    [handleAddFood, setIsOpen, showToast],
   );
 
   return (

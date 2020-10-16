@@ -68,7 +68,7 @@ const ModalEditFood: React.FC<IModalProps> = ({
         });
       }
     },
-    [handleUpdateFood, setIsOpen],
+    [handleUpdateFood, setIsOpen, showToast],
   );
 
   return (
